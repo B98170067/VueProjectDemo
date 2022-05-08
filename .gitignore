@@ -1,3 +1,9 @@
 /.vs/
 /VueProjectDemoBeckend/bin/
 /VueProjectDemoBeckend/obj/
+/VueProjectDemo/node_modules/
+/VueProjectDemoBeckend.Data/obj/
+/VueProjectDemoBeckend.Model/obj/
+/VueProjectDemoBeckend.Service/obj/
+/VueProjectDemoBeckend.UnitTest/obj/
+/VueProjectDemoBeckend.Utility/obj/
