@@ -11,7 +11,10 @@
     <Script Include="**" Exclude="*.esproj;**\node_modules\**" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="src\common\" />
+    <Folder Include="src\configs\" />
+    <Folder Include="src\constants\" />
+    <Folder Include="src\utils\" />
+    <Folder Include="src\services\" />
     <Folder Include="src\store\" />
     <Folder Include="src\router\" />
   </ItemGroup>
